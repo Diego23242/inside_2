@@ -1,41 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\",
+  "WorkspaceRootPath": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|c:\\users\\hermo\\documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\inside_battle\\assets\\dialoguescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\Downloads\\inside_2-main (1)\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Vidaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|c:\\users\\hermo\\documents\\github\\inside_2\\inside_battle\\assets\\dialogoscriptclimax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\dialogoscriptclimax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\dialoguescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\dialoguescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|c:\\users\\hermo\\documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\inside_battle\\assets\\scripts\\p\u00FAerta_scripts\\sistemdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\controlyoulose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlyoulose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\mini first person controller\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\enemigofati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigofati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\balon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\balon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\p\u00FAerta_scripts\\sistemdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\p\u00FAerta_scripts\\sistemdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\p\u00FAerta_scripts\\selecteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\p\u00FAerta_scripts\\selecteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\p\u00FAerta_scripts\\selecteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NpcScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\animation controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\animation controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animation controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\npcprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\npcprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\barraefecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barraefecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\vidaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vidaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -50,25 +69,21 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\estres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\estres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\estres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\WeatherController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\56-fbx\\fbx\\Notebook Low-Poly Version.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\mecanicas\\objet_interaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\mecanicas\\objet_interaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mecanicas\\objet_interaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\assets\\scripts\\mecanicas\\selected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\assets\\scripts\\mecanicas\\selected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAB98DC1-980B-34C2-1C34-749918061AAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mecanicas\\selected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -91,97 +106,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DialogueScript.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\DialogueScript.cs",
-              "RelativeDocumentMoniker": "Assets\\DialogueScript.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\DialogueScript.cs",
-              "RelativeToolTip": "Assets\\DialogueScript.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA5wDUAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DialogoScriptClimax.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\DialogoScriptClimax.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogoScriptClimax.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\DialogoScriptClimax.cs",
+              "RelativeToolTip": "Assets\\DialogoScriptClimax.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:53:41.904Z",
+              "WhenOpened": "2024-11-27T10:20:53.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BarraEfecto.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\BarraEfecto.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BarraEfecto.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\BarraEfecto.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BarraEfecto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "DialogueScript.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\DialogueScript.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueScript.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\DialogueScript.cs",
+              "RelativeToolTip": "Assets\\DialogueScript.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIBJwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:59:57.033Z"
+              "WhenOpened": "2024-11-26T14:53:41.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HcerDa\u00F1o.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
-              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
+              "DocumentIndex": 3,
+              "Title": "ControlYouLose.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\ControlYouLose.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlYouLose.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\ControlYouLose.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlYouLose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:25:25.752Z"
+              "WhenOpened": "2024-11-27T02:07:03.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PastillaAzul.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
-              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
+              "DocumentIndex": 4,
+              "Title": "FirstPersonMovement.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:23:06.776Z"
+              "WhenOpened": "2024-11-27T00:50:59.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "estres.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\estres.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\estres.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\estres.cs",
-              "RelativeToolTip": "Assets\\Scripts\\estres.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:21:23.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PlayerStats.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
-              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAcwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:03:33.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "WeatherController.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\WeatherController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\WeatherController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\WeatherController.cs",
               "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\WeatherController.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\WeatherController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\WeatherController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T04:23:02.702Z"
+              "WhenOpened": "2024-11-20T04:23:02.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "SelectedDoor.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SelectedDoor.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SelectedDoor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\P\u00FAerta_Scripts\\SelectedDoor.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SelectedDoor.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SelectedDoor.cs",
               "RelativeToolTip": "Assets\\Scripts\\P\u00FAerta_Scripts\\SelectedDoor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,24 +183,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SistemDoor.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAgAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Vidaplayer.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\inside_2-main (1)\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Vidaplayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\inside_2-main (1)\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Vidaplayer.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\inside_2-main (1)\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Vidaplayer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\inside_2-main (1)\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Vidaplayer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T21:21:08.536Z",
+              "WhenOpened": "2024-10-18T15:22:48.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogManager.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\DialogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogManager.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\DialogManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:04:03.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:03:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "estres.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\estres.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\estres.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\estres.cs",
+              "RelativeToolTip": "Assets\\Scripts\\estres.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:21:23.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "enemigofati.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\enemigofati.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemigofati.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\enemigofati.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemigofati.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:36:46.605Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\enemigo.cs",
+              "RelativeDocumentMoniker": "Assets\\enemigo.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\enemigo.cs",
+              "RelativeToolTip": "Assets\\enemigo.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:47:53.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PastillaAzul.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Pastillas\\PastillaAzul.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:23:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HcerDa\u00F1o.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\HcerDa\u00F1o.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:25:25.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "balon.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\balon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\balon.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\balon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\balon.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:25:11.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SistemDoor.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\P\u00FAerta_Scripts\\SistemDoor.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:21:08.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "npcprueba.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\npcprueba.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\npcprueba.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\npcprueba.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\npcprueba.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\npcprueba.cs",
               "RelativeToolTip": "Assets\\Scripts\\npcprueba.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,11 +317,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "animation controller.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\animation controller.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\animation controller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\animation controller.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\animation controller.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\animation controller.cs",
               "RelativeToolTip": "Assets\\Scripts\\animation controller.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAAAYwGYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,115 +329,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "NpcScript.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NpcScript.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NpcScript.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NpcScript.cs",
               "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NpcScript.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NpcScript.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NpcScript.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:06:23.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "enemigo.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\enemigo.cs",
-              "RelativeDocumentMoniker": "Assets\\enemigo.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\enemigo.cs",
-              "RelativeToolTip": "Assets\\enemigo.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwDwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:47:53.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Vidaplayer.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Vidaplayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Vidaplayer.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Vidaplayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Vidaplayer.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:22:48.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NewBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:35:45.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Vidaplayer.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
-              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:40:28.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BarraEfecto.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
-              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:41:36.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BarraEfecto.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
-              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:01:56.604Z"
+              "WhenOpened": "2024-11-21T13:06:23.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DialogManager.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\DialogManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogManager.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\DialogManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DialogManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\NewBehaviourScript.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:04:03.763Z"
+              "WhenOpened": "2024-11-20T16:35:45.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
+              "Title": "Vidaplayer.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Vidaplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:40:28.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BarraEfecto.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\BarraEfecto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:41:36.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BarraEfecto.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
+              "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\Scripts\\Vida y efecto\\BarraEfecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:01:56.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Notebook Low-Poly Version.txt",
               "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\56-fbx\\fbx\\Notebook Low-Poly Version.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\56-fbx\\fbx\\Notebook Low-Poly Version.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\56-fbx\\fbx\\Notebook Low-Poly Version.txt",
               "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\56-fbx\\fbx\\Notebook Low-Poly Version.txt",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\56-fbx\\fbx\\Notebook Low-Poly Version.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\56-fbx\\fbx\\Notebook Low-Poly Version.txt",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-17T14:06:00.982Z"
+              "WhenOpened": "2024-11-17T14:06:00.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Objet_interaccion.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Objet_interaccion.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Objet_interaccion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mecanicas\\Objet_interaccion.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Objet_interaccion.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Objet_interaccion.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mecanicas\\Objet_interaccion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,11 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Selected.cs",
-              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Selected.cs",
+              "DocumentMoniker": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Selected.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mecanicas\\Selected.cs",
-              "ToolTip": "C:\\Users\\hermo\\Documents\\inside_2-main\\inside_2-main\\inside_2-main\\inside_2-main\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Selected.cs",
+              "ToolTip": "C:\\Users\\hermo\\Documents\\GitHub\\inside_2\\Inside_Battle\\Assets\\Scripts\\Mecanicas\\Selected.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mecanicas\\Selected.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAewE0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -354,14 +427,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Objet_interaccion.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\_Mecanicas\\Patillas\\Objet_interaccion.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\_Mecanicas\\Patillas\\Objet_interaccion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\_Mecanicas\\Patillas\\Objet_interaccion.cs",
               "ToolTip": "C:\\Users\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\_Mecanicas\\Patillas\\Objet_interaccion.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\_Mecanicas\\Patillas\\Objet_interaccion.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\aleja\\Downloads\\AppGame-main (3)\\AppGame-main\\Inside_Battle\\Assets\\_Mecanicas\\Patillas\\Objet_interaccion.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:03:11.889Z"
+              "WhenOpened": "2024-10-17T17:03:11.889Z",
+              "EditorCaption": ""
             }
           ]
         }
