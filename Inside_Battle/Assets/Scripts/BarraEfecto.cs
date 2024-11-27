@@ -9,6 +9,7 @@ public class BarraEfecto : MonoBehaviour
     public float CantidadDeDañoPorSegundo = 1f; // Daño por segundo cuando la barra de efecto se vacía
     private VidaPlayer vidaPlayer; // Referencia al script VidaPlayer
     private bool estaCorriendo = false; // Indicador de si el jugador está corriendo
+    public KeyCode teclaCorrer = KeyCode.LeftShift; // Tecla para correr
 
     void Start()
     {
@@ -19,17 +20,7 @@ public class BarraEfecto : MonoBehaviour
     // Update se llama una vez por frame
     void Update()
     {
-        // Detectar si el jugador está corriendo. Esto puede depender de tu propio script de movimiento.
-        // Ejemplo con el componente de movimiento (puedes ajustar esto a tu código).
-        if (Input.GetKey(KeyCode.W)) // O la tecla para correr
-        {
-            estaCorriendo = true;
-        }
-        else
-        {
-            estaCorriendo = false;
-        }
-
+        DetectarEstadoMovimiento();
         ActualizarInterfaz();
 
         // Solo disminuye el efecto cuando el jugador está corriendo
@@ -39,11 +30,23 @@ public class BarraEfecto : MonoBehaviour
             Efecto = Mathf.Clamp(Efecto, 0, LteMaxEfecto); // Asegura que no baje de 0
         }
 
-        // Cuando el Efecto llega a cero, empieza a bajar la vida del jugador
+        // Cuando el efecto llega a cero, empieza a bajar la vida del jugador
         if (Efecto <= 0 && vidaPlayer != null)
         {
-            // Aplica daño a la vida del jugador, pero lentamente
             vidaPlayer.RecibirDaño(CantidadDeDañoPorSegundo * Time.deltaTime);
+        }
+    }
+
+    void DetectarEstadoMovimiento()
+    {
+        // Detectar si el jugador está corriendo (puedes ajustar esto a tu propio sistema de movimiento)
+        if (Input.GetKey(teclaCorrer) && Input.GetKey(KeyCode.W)) // Está corriendo si presiona Shift y avanza
+        {
+            estaCorriendo = true;
+        }
+        else
+        {
+            estaCorriendo = false; // No está corriendo
         }
     }
 

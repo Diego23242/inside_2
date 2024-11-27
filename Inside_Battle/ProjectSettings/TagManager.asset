@@ -8,6 +8,8 @@ TagManager:
   - Door
   - TriggerDoor
   - ObjetoNpc
+  - Ball
+  - Maria
   layers:
   - Default
   - TransparentFX
